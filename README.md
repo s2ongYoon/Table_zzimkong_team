@@ -27,7 +27,7 @@
 
 ✅ [Table_zzimkong URL](http://c5d2308t2.itwillbs.com/zzimkong/)
 -------------
-> User _ID hahaha111 /  User _PW hahaha111
+> User _ID hahaha111 /  User _PW hahaha111___
 > Admin_ID admin1234 / Admin_PW admin1234
 
 <br>
