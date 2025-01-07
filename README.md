@@ -6,22 +6,37 @@
 > - 사업주에게 관리 페이지를 제공하여 사업 운영의 편리성 향상
 > - 팀의 부팀장을 맡아 회의를 주도하고 팀원의 의견을 이끌고 종합
 > - 디스코드 관리를 통해 자료의 가독성을 높이고 의견 교환을 이끔
+
 <br>
-### ✅ 사용기술
+       
+✅ 사용기술
+-------------
 > - Java 11, JSP, Spring Framework, MyBatis, MySQL, Tomcat
 > - HTML, CSS, JavaScript, JQuery, AJAX, JSON
 > - GIT, GitHub
+
 <br>
-### ✅ 담당부분
+
+✅ 담당부분
+-------------
 > - 결제 페이지
 > - 사업자페이지의 사업장 관리
 > - CSS공통 부분
+
 <br>
-### ✅ [Table_zzimkong URL](http://c5d2308t2.itwillbs.com/zzimkong/)
+
+✅ [Table_zzimkong URL](http://c5d2308t2.itwillbs.com/zzimkong/)
+-------------
 > User _ID hahaha111 /  User _PW hahaha111
 > Admin_ID admin1234 / Admin_PW admin1234
+
 <br>
-### ✅ [Table_zzimkong PPT](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing)
+
+✅ [Table_zzimkong PPT](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing)
+-------------
+
 <br>
-### ✅ [Table_zzimkong Documents](https://drive.google.com/drive/folders/1nzWLDrreENVaQ_YG6SdzDdxmkzrqvUmA?usp=sharing)
+
+✅ [Table_zzimkong Documents](https://drive.google.com/drive/folders/1nzWLDrreENVaQ_YG6SdzDdxmkzrqvUmA?usp=sharing)
+-------------
 
