@@ -25,5 +25,5 @@
 ### ✅ [Table_zzimkong PPT](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing)
 
 
-### ✅ [Table_zzimkong Documents](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing)
+### ✅ [Table_zzimkong Documents](https://drive.google.com/drive/folders/1nzWLDrreENVaQ_YG6SdzDdxmkzrqvUmA?usp=sharing)
 
