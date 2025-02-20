@@ -27,7 +27,7 @@
 
 <br>
 
-✅ [Table_zzimkong URL](http://13.124.79.139:8080/zzimkong/)
+✅ [Table_zzimkong URL](http://43.201.111.185:8080/zzimkong/)
 -------------
 > **User_ID** hahaha1112 /  **User_PW** hahaha1112   
 > **Admin_ID** admin123 / **Admin_PW** admin123
@@ -36,9 +36,9 @@
 
 ✅ [Table_zzimkong PPT](https://drive.google.com/file/d/1Bk9R7OcgkHpxv5pHvTrraNPnGgBJmTo4/view?usp=sharing)
 -------------
-
+⬆️click!
 <br>
 
 ✅ [Table_zzimkong Documents](https://drive.google.com/drive/folders/1nzWLDrreENVaQ_YG6SdzDdxmkzrqvUmA?usp=sharing)
 -------------
-
+⬆️click!
