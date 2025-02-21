@@ -27,7 +27,7 @@
 
 <br>
 
-✅ [Table_zzimkong URL](http://43.201.111.185:8080/zzimkong/)
+✅ [Table_zzimkong URL](http://54.180.124.142:8080/zzimkong/)
 -------------
 > **User_ID** hahaha1112 /  **User_PW** hahaha1112   
 > **Admin_ID** admin123 / **Admin_PW** admin123
